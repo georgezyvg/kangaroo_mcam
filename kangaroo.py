@@ -180,7 +180,7 @@ def main():
         ("0209c58240e50e3ba3f833c82655e8725c037a2294e14cf5d73a5df8d56159de69", 32),
     ]
 
-    problem = 135
+    problem = 32
     for elem in problems:
         s, n = elem
         if problem == n:
