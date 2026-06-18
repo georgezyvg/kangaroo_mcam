@@ -175,7 +175,7 @@ def main():
     global PG, W0, kangoo_power, Nt, Nw, problem
     problems = [
         ("029d8c5d35231d75eb87fd2c5f05f65281ed9573dc41853288c62ee94eb2590b7a", 16),
-        ("02145d2611c823a396ef6712ce0f712f09b9b4f3135e3e0aa3230fb9b6d08d1e16", 135),
+        ("02e0a8b039282faf6fe0fd769cfbc4b6b4cf8758ba68220eac420e32b91ddfa673", 160),
         ("036ea839d22847ee1dce3bfc5b11f6cf785b0682db58c35b63d1342eb221c3490c", 24),
         ("0209c58240e50e3ba3f833c82655e8725c037a2294e14cf5d73a5df8d56159de69", 32),
     ]
